@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200676145300",
+    "project_id": "karboboks",
+    "storage_bucket": "karboboks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200676145300:android:28307b504434cb3c341c81",
+        "android_client_info": {
+          "package_name": "com.gth.karboboks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200676145300-sqavmdue4ve3d5ptlgl722pk2vdmo365.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gth.karboboks",
+            "certificate_hash": "ba848cf173bb76dd042b622461e0422f91207061"
+          }
+        },
+        {
+          "client_id": "200676145300-b2qht29tmn2ffq4cc5f0qftj5crb4dai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBreZuCv05Vs5XvvRYJTyQDs6qS9587HCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200676145300-b2qht29tmn2ffq4cc5f0qftj5crb4dai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
